@@ -27,7 +27,7 @@ We do not collect any information that you provide to us because our application
 Since our application does not collect any data, we do not collect any personal information about you.
 
 ### 2.1 Third Parties we collect information from
-We do not collect any information from third parties.
+We do not collect any information from third parties and we do not share any user information with third parties.
 
 | Third Party | What is it used for? |
 | :--- | :--- |

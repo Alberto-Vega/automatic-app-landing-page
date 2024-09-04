@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Make your music practice more fun
     description                           : Keep practice fun and engaging with games that your child will love!
-    fontawesome_icon_name                 : game-board
+    fontawesome_icon_name                 : star
     
   - title                                 : Quickly locate games for practice
     description                           : Games are organized by multiple useful categories.
@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Detailed instructions
     description                           : Easily run any game by following our detailed instructions.
-    fontawesome_icon_name                 : chalkboard-user
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : chalkboard-user
   
   - title                                 : Feature List
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.

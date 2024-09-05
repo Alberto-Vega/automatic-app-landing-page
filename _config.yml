@@ -36,25 +36,25 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Make your music practice more fun
+  - title                                 : Make music practice more fun
     description                           : Keep practice fun and engaging with games that your child will love!
     fontawesome_icon_name                 : star
     
-  - title                                 : Quickly locate games for practice
+  - title                                 : Quickly find useful games
     description                           : Games are organized by multiple useful categories.
-    fontawesome_icon_name                 : user-magnifying-glass
-
-  - title                                 : Detailed instructions
-    description                           : Easily run any game by following our detailed instructions.
     fontawesome_icon_name                 : star
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Easy to follow game instructions
+    description                           : Play any game by following our detailed instructions.
     fontawesome_icon_name                 : star
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Printable board games
+    description                           : Easily print board game templates.
+    fontawesome_icon_name                 : star
+
+  - title                                 : New games and resources periodically added
+    description                           : More useful content to come.
+    fontawesome_icon_name                 : star
 
 
 
